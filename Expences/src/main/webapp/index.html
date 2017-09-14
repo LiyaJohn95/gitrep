@@ -1,0 +1,8 @@
+CREATE TABLE expenses (
+  expense_sno int(10) NOT NULL AUTO_INCREMENT,
+  exp float NOT NULL,
+  purpose varchar(256) NOT NULL,
+  day varchar(256) NOT NULL,
+  PRIMARY KEY (expense_sno),
+  UNIQUE KEY expense_sno_UNIQUE (expense_sno)
+)
