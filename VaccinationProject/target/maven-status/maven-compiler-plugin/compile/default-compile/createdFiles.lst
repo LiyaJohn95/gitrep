@@ -1,0 +1,5 @@
+com/genio/vaccination/settings/DBConnection.class
+com/genio/vaccination/servlets/AddUsers.class
+com/genio/vaccination/settings/DBSettings.class
+com/genio/vaccination/settings/DBConnectionManager.class
+com/genio/vaccination/models/UserMaster.class
